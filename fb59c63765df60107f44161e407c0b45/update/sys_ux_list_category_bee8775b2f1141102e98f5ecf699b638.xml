@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Peer Review_menu_config">3ee8775b2f1141102e98f5ecf699b609</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-01 19:29:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>bee8775b2f1141102e98f5ecf699b638</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Feedback</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope>
+        <sys_update_name>sys_ux_list_category_bee8775b2f1141102e98f5ecf699b638</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-01 19:29:21</sys_updated_on>
+        <title>Feedback</title>
+    </sys_ux_list_category>
+</record_update>
