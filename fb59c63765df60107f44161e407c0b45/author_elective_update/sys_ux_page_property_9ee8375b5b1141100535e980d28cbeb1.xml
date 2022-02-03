@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="">96e8375b82114110c3b918240983cab1</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-01 19:29:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>9ee8375b5b1141100535e980d28cbeb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope>
+        <sys_update_name>sys_ux_page_property_9ee8375b5b1141100535e980d28cbeb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-01 19:29:20</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1234_peer_review.96e8375b82114110c3b918240983cab1.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Peer Review">fb59c63765df60107f44161e407c0b45</application>
+        <file_path/>
+        <instance_id>7b13886bdbecb300387021c4059619f1</instance_id>
+        <instance_name>dev79354</instance_name>
+        <name>sys_ux_page_property_9ee8375b5b1141100535e980d28cbeb1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Contains references to global search configurations to be consumed by search components</description><name>global_search_configurations</name><page display_value="">96e8375b82114110c3b918240983cab1</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-01 19:29:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>9ee8375b5b1141100535e980d28cbeb1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package><sys_policy/><sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope><sys_update_name>sys_ux_page_property_9ee8375b5b1141100535e980d28cbeb1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-01 19:29:20</sys_updated_on><type>json</type><unique_name>x_1234_peer_review.96e8375b82114110c3b918240983cab1.root.global_search_configurations</unique_name><value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>618205320</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source>211238212f0101102e98f5ecf699b62e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by/>
+        <sys_created_on>2022-01-14 08:15:35</sys_created_on>
+        <sys_id>21cb94f72f1d01102e98f5ecf699b63e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e57a800580000000</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-03 06:33:17</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>edcb94f73b1d0110b0b560617cc73c3d</update_guid>
+        <update_guid_history>edcb94f73b1d0110b0b560617cc73c3d:618205320</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 16:40:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>34fcc59bf3ae49389f43615e7a2c6c90</sys_id>
+        <sys_metadata>9ee8375b5b1141100535e980d28cbeb1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope>
+        <sys_scope_delete display_value="">0b950a45195747399fbdc5b96a7b18e9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_9ee8375b5b1141100535e980d28cbeb1</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_9ee8375b5b1141100535e980d28cbeb1">21cb94f72f1d01102e98f5ecf699b63e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 16:40:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

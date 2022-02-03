@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <default_route_type/>
+        <description/>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Peer Review Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-01 19:29:19</sys_created_on>
+        <sys_id>16e8375b0611411063f842fbe1c46d64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Peer Review Config</sys_name>
+        <sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope>
+        <sys_update_name>sys_ux_app_config_16e8375b0611411063f842fbe1c46d64</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-01 19:29:19</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Peer Review">fb59c63765df60107f44161e407c0b45</application>
+        <file_path/>
+        <instance_id>7b13886bdbecb300387021c4059619f1</instance_id>
+        <instance_name>dev79354</instance_name>
+        <name>sys_ux_app_config_16e8375b0611411063f842fbe1c46d64</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><default_route_type/><description/><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>Peer Review Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-01 19:29:19</sys_created_on><sys_id>16e8375b0611411063f842fbe1c46d64</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Peer Review Config</sys_name><sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package><sys_policy/><sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope><sys_update_name>sys_ux_app_config_16e8375b0611411063f842fbe1c46d64</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-01 19:29:19</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>-1776226178</payload_hash>
+        <record_name>Peer Review Config</record_name>
+        <reverted_from/>
+        <source>211238212f0101102e98f5ecf699b62e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by/>
+        <sys_created_on>2022-01-14 08:15:35</sys_created_on>
+        <sys_id>c44e18fb2f1d01102e98f5ecf699b6cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e57a800580000000</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-03 06:33:16</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>844e18fb091d0110f0d5da6723c974cd</update_guid>
+        <update_guid_history>844e18fb091d0110f0d5da6723c974cd:-1776226178</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 16:50:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>20cf39cb2d33450b8901047b7c55ef79</sys_id>
+        <sys_metadata>16e8375b0611411063f842fbe1c46d64</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Peer Review Config</sys_name>
+        <sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope>
+        <sys_scope_delete display_value="">0b950a45195747399fbdc5b96a7b18e9</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_16e8375b0611411063f842fbe1c46d64</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_16e8375b0611411063f842fbe1c46d64">c44e18fb2f1d01102e98f5ecf699b6cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 16:50:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

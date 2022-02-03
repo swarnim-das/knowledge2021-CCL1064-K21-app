@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-01 19:29:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d2e8375b6d1141107c7435c17f528764</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope>
+        <sys_update_name>m2m_app_config_theme_d2e8375b6d1141107c7435c17f528764</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-01 19:29:20</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">5ae8375bf41141109ec1e1df90db1264</theme>
+        <ux_app_configuration display_value="">16e8375b0611411063f842fbe1c46d64</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Peer Review">fb59c63765df60107f44161e407c0b45</application>
+        <file_path/>
+        <instance_id>7b13886bdbecb300387021c4059619f1</instance_id>
+        <instance_name>dev79354</instance_name>
+        <name>m2m_app_config_theme_d2e8375b6d1141107c7435c17f528764</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-01 19:29:20</sys_created_on><sys_domain>global</sys_domain><sys_id>d2e8375b6d1141107c7435c17f528764</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package><sys_policy/><sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope><sys_update_name>m2m_app_config_theme_d2e8375b6d1141107c7435c17f528764</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-01 19:29:20</sys_updated_on><theme display_value="Starter Workspace Theme">5ae8375bf41141109ec1e1df90db1264</theme><ux_app_configuration display_value="">16e8375b0611411063f842fbe1c46d64</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>1683229961</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>211238212f0101102e98f5ecf699b62e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by/>
+        <sys_created_on>2022-01-14 08:15:35</sys_created_on>
+        <sys_id>e44e503f2f1d01102e98f5ecf699b6d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e57a800580000000</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-03 06:33:10</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>a44e503fa71d01108a218270abe4c1d0</update_guid>
+        <update_guid_history>a44e503fa71d01108a218270abe4c1d0:1683229961</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6c4e903f2f1d01102e98f5ecf699b628</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 16:50:58</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>0f9527ad3dbb44c780f523cb005593a1</sys_id>
+        <sys_metadata>d2e8375b6d1141107c7435c17f528764</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope>
+        <sys_scope_delete display_value="">0b950a45195747399fbdc5b96a7b18e9</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_d2e8375b6d1141107c7435c17f528764</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_d2e8375b6d1141107c7435c17f528764">e44e503f2f1d01102e98f5ecf699b6d0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 16:50:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
